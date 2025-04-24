@@ -1,0 +1,49 @@
+.section1 h1 {
+  font-weight: 700;
+  font-size: 58px;
+  line-height: 80px;
+  letter-spacing: 0.2px;
+}
+
+.section1 h2 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+}
+
+.section1 h3 {
+  color: #F6F6F6;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 38px;
+  letter-spacing: 0.2px;
+}
+
+.buttons{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.section1 button {
+  width: 236px;
+  height: 68px;
+  border-radius: 30px;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+}
+
+.section1 .play {
+  background-color: #fa4a0c;
+  box-shadow: 0px 10px 30px 0px #b7322733;
+}
+
+.section1 .app {
+  background: none;
+  border: 1px solid #ffffff;
+}

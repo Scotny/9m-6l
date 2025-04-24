@@ -1,0 +1,13 @@
+footer ul {
+  align-items: center;
+  gap: 20px;
+}
+
+footer p {
+  color: #5c5c5c;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.1px;
+  text-align: right;
+}

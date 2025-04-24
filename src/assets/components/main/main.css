@@ -1,0 +1,28 @@
+.section1 {
+  width: 100%;
+  padding: 150px 200px;
+  background: url(../../images/hero_bg.svg) no-repeat center;
+  background-size: cover;
+  text-align: center;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.section2 {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 600px 0 0;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section3 {
+  background: url(../../images/install_bg.svg) no-repeat center;
+  background-size: cover;
+  letter-spacing: 0.2px;
+}
